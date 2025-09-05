@@ -1,1 +1,1 @@
-console.log("fff Thay doi cua acc 2");
+console.log("Thay doi acc 2");
