@@ -1,2 +1,2 @@
-var message = "Hello, Tuan!";
+var message = "ACCC2";
 console.log(message);
